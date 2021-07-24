@@ -1,0 +1,12 @@
+.vscode
+.idea
+*.swo
+*.swp
+*~
+*.iml
+.DS_Store
+
+output
+_novendor
+vendor
+
